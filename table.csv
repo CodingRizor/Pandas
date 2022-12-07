@@ -1,0 +1,11 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,SALARY,DEPARTMENT_REF_ID
+101,Ajay,Shekhawat,40000,5
+102,Rahul,Rathore,80000,9
+103,Chirag,Kumar,150000,6
+104,Gourav,Singh,200000,7
+105,Himanshu,Sharma,250000,3
+106,Jatin,Sinha,120000,4
+107,Manish,Sharma,200000,8
+108,Yogesh,Kumawat,400000,1
+109,Divya,Sharma,300000,2
+110,Riya,Rathore,200000,10
